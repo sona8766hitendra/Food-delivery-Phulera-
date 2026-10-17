@@ -1,5 +1,3 @@
-# Food-delivery-Phulera-
-Phulera 
 <!DOCTYPE html>
 <html lang="hi">
 <head>
